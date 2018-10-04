@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieStageOne</string>
+
+    <!---MovieDetail               -->
+    <string name="textView">empty list</string>
+    <string name="moviDetail_textView1">Title</string>
+    <string name="moviDetail_textView2">Release_Date</string>
+    <string name="moviDetail_textView3">vot_avg</string>
+    <string name="moviDetail_textView4">Popularity</string>
+    <string name="moviDetail_ImageView">Poster</string>
+
+    <!--- menu     -->
+    <string name="menu">most popular</string>
+    <string name="menu_item2">highest rated</string>
+
+    <string name="empty_textView">No Network Found</string>
+</resources>
